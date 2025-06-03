@@ -1,6 +1,6 @@
 # 👾Bem-vinda(o)!🦊
 
-## Sou uma aspirante Dev e amo programação
+## Sou uma aspirante Dev Web e amo programação
 
  <div>
    <a href="https://github.com/BuEnO064">

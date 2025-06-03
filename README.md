@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me mande um e-mail 
  
 <div> 
  <a>makotomatsumoto780@gmail.com</a>

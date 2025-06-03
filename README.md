@@ -1,5 +1,7 @@
 ## 👾Bem-vinda(o)!🦊
 
+# Sou uma aspirante Dev e amo programação
+
  <div>
    <a href="https://github.com/BuEnO064">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuEnO064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

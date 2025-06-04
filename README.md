@@ -1,6 +1,6 @@
 # 👾Bem-vinda(o)!🦊
 
-## Sou uma aspirante Dev, e eu amo muito programar novos projetos
+## Apaixonada por programação e desenvolvimento web, estou sempre em busca de aprendizado e novos desafios. Mesmo com experiência ainda em crescimento, acredito que dedicação e prática são a chave para evoluir na área. Atualmente, desenvolvo projetos pessoais e participo de imersões para me aprimorar. Vamos trocar ideias e crescer juntos!
 
  <div>
    <a href="https://github.com/BuEnO064">

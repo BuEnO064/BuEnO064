@@ -18,8 +18,11 @@
  
 <br>
  
-### Pra conteúdo sobre programação me mande um e-mail 
+### _Minhas redes_ ✨Vamos trocar ideias e crescer juntos!✨
+
+
  
 <div> 
  <a>makotomatsumoto780@gmail.com</a>
+<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a>
 </div>

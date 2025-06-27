@@ -13,7 +13,7 @@
 - 🦊 **Hiperfoco em raposas** (e em animações retrô/pixel art).  
 - 🎮 **Viciada em jogos clássicos** (e na magia por trás deles).  
 - 🎨 **Arte = Vida** (música, desenhos, pinturas digitais).  
-- 🌱 **Atualmente aprendendo**: React e APIs.  
+- 🌱 **Atualmente aprendendo**: Html, Css, Javascript e Figma.  
 
 ---
 

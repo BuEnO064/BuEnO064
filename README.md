@@ -1,6 +1,6 @@
 # ✨ Olá, eu sou a Gabriela  
 
-### **Desenvolvedora Front-End & Arteira Digital**  
+### **Desenvolvedora Front-End & Artista Digital**  
 `HTML` `CSS` `JavaScript` `Pixel Art` `INTJ-T`  
 
 <img align="https://img.itch.zone/aW1nLzkyMDIxMDUucG5n/original/34uIRj.png" width="300" alt="Fox pixel art">  

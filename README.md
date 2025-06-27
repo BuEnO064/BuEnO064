@@ -1,4 +1,4 @@
-# ✨ Olá, eu sou a Gabriela  
+# ✨ Olá, eu sou Gabriela  
 
 ### **Desenvolvedora Front-End & Artista Digital**  
 `HTML` `CSS` `JavaScript` `Pixel Art` `INTJ-T`  

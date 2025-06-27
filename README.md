@@ -1,9 +1,9 @@
 # ✨ Olá, eu sou Gabriela  
 
-### **Desenvolvedora Front-End & Artista Digital**  
+### **_Desenvolvedora Front-End & Artista Digital_**  
 `HTML` `CSS` `JavaScript` `Pixel Art` `INTJ-T`  
 
-<img align="https://img.itch.zone/aW1nLzkyMDIxMDUucG5n/original/34uIRj.png" width="300" alt="Fox pixel art">  
+<img align src="https://pbs.twimg.com/media/FsHHWMcWcAEtOyl.png" width="300" alt="Fox pixel art">  
 
 ---
 
@@ -13,8 +13,8 @@
 - 🦊 **Hiperfoco em raposas** (e em animações retrô/pixel art).  
 - 🎮 **Viciada em jogos clássicos** (e na magia por trás deles).  
 - 🎨 **Arte = Vida** (música, desenhos, pinturas digitais).  
-- 🌱 **Atualmente aprendendo**: Html, Css, Javascript e Figma.  
-
+- 🌱 **Atualmente aprendendo**: Html, Css, Javascript e Figma.
+- 💬 **Adoro feedbacks** — me ajude a evoluir! (me chame nas redes para conversar)
 ---
 
  
@@ -24,8 +24,8 @@
 
  
 <div> 
- <h4>E-mail:<a>makotomatsumoto780@gmail.com</a></h4>
-<h4>LinkedIn:<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a><h4>
+ <h4>✉️E-mail:<a>makotomatsumoto780@gmail.com</a></h4>
+<h4>💼LinkedIn:<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a><h4>
 </div>
 
 ### **Meus Princípios**  

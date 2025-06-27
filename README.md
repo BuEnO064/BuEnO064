@@ -1,7 +1,4 @@
-# 👾Bem-vinda(o)!🦊
-
-## Apaixonada por programação e desenvolvimento web, estou sempre em busca de aprendizado e novos desafios. Mesmo com experiência ainda em crescimento, acredito que dedicação e prática são a chave para evoluir na área. 
-
+# 👾 Bem-vindo(a)
 # Atualmente, desenvolvo projetos pessoais e participo de imersões para me aprimorar. Vamos trocar ideias e crescer juntos!
 
  <div>
@@ -23,6 +20,6 @@
 
  
 <div> 
- <a>makotomatsumoto780@gmail.com</a>
-<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a>
+<h4>E-mail:<a>makotomatsumoto780@gmail.com</a></h4>
+<h4>LinkedIn:<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a><h4>
 </div>

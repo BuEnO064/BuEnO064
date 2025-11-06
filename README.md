@@ -24,7 +24,7 @@
 
  
 <div> 
- <h4>✉️E-mail:<a>makotomatsumoto780@gmail.com</a></h4>
+ <h4>✉️E-mail:<a>buenoraposa@gmail.com</a></h4>
 <h4>💼LinkedIn:<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a><h4>
 </div>
 

@@ -1,37 +1,51 @@
-# ✨ Olá, eu sou Gabriela  
 
-### **_Desenvolvedora Front-End & Artista Digital_**  
-`HTML` `CSS` `JavaScript` `Pixel Art` `INTJ-T`  
+# 👋 Olá! Eu sou a Gabriela Bueno
 
-<img align src="https://pbs.twimg.com/media/FsHHWMcWcAEtOyl.png" width="300" alt="Fox pixel art">  
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em preparação para o ingresso na Fatec. Sou **autodidata**, curiosa por natureza e apaixonada por criar soluções — desde software até experimentos envolvendo IA.
+
+Atualmente estou construindo minhas bases em programação, estudando diariamente e desenvolvendo projetos para evoluir meu portfólio. Meu objetivo é crescer como desenvolvedora full stack e, a longo prazo, criar **minha própria IA autoral**.
 
 ---
 
-### **Sobre Mim**  
-<i>Tenho **16 anos** e sou uma **apaixonada por código, arte e tecnologia**. Mesmo sendo iniciante, mergulho de cabeça em projetos para transformar ideias em realidade. Sou **autodidata**, mas adoro trocar conhecimentos com outros devs — feedbacks são meu combustível!<i/>
+## 🌱 Sobre mim
+- 👩‍🎓 3º ano do ensino médio  
+- 💻 Estudo programação por hobby e também como objetivo profissional  
+- 🤖 Interesse profundo em **Inteligência Artificial**, automação e sistemas  
+- 📚 Faço cursos curtos regularmente para ampliar minhas habilidades  
+- 🔍 Determinada, disciplinada e impulsionada por curiosidade real  
 
-- 🦊 **Hiperfoco em raposas** (e em animações retrô/pixel art).  
-- 🎮 **Viciada em jogos clássicos** (e na magia por trás deles).  
-- 🎨 **Arte = Vida** (música, desenhos, pinturas digitais).  
-- 🌱 **Atualmente aprendendo**: Html, Css, Javascript e Figma.
-- 💬 **Adoro feedbacks** — me ajude a evoluir! (me chame nas redes para conversar)
 ---
 
- 
-### _Minhas redes_ 
+## 🎯 Objetivos
+- Montar um portfólio sólido com projetos práticos  
+- Ingressar na Fatec em ADS  
+- Me especializar em IA e desenvolvimento de soluções inteligentes  
+- Criar uma **IA original** que una criatividade, técnica e visão pessoal  
+
+---
+## 🛠️ Tecnologias que estudo
+
+- HTML, CSS, JavaScript
+
+- Python
+
+- Git/GitHub
+
+- Lógica de Programação
+
+- Fundamentos de IA e ML (estudos iniciais)
+---
+## _🌐como me encontrar_ 
 ✨Vamos trocar ideias e crescer juntos✨
 
+ - _✉️E-mail:buenoraposa@gmail.com_
+- _💼LinkedIn:https://www.linkedin.com/in/gabriela-bueno-605691350_
+---
 
- 
-<div> 
- <h4>✉️E-mail:<a>buenoraposa@gmail.com</a></h4>
-<h4>💼LinkedIn:<a>https://www.linkedin.com/in/gabriela-bueno-605691350<a><h4>
-</div>
-
-### **Meus Princípios**  
-```javascript
-while (learning) {
-  stayCurious();
-  buildProjects();
-  embraceFeedbacks(); // ♡
-}
+## 🧭 Meus princípios como desenvolvedora
+```text
+> 💡 Crescimento contínuo  
+> 🔎 Aprender antes de executar  
+> 🧩 Resolver problemas de forma simples  
+> 🕊️ Compartilhar conhecimento  
+> 🔥 Criar por paixão, não obrigação

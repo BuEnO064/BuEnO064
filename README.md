@@ -1,9 +1,10 @@
 
 # ✨Seja bem vindo (a) ao meu perfil!✨
 
-Eu me chamo Gabriela Bueno, e é um prazer em tê-lo (a) aqui.
-<img src= "https://cdn.pixabay.com/animation/2022/09/28/13/22/13-22-18-1_512.gif">
-Sou **autodidata**, curiosa por natureza e apaixonada por explorar e pesquisar — desde hardware até experimentos envolvendo software e IA.
+<div align="center">
+<img width="500" height="500" alt="raposa" src="https://github.com/user-attachments/assets/d948221c-0dac-4dfa-9eab-5571530233fd" />
+</div>
+Sou autodidata, curiosa por natureza e apaixonada por explorar e pesquisar — desde hardware até experimentos envolvendo software e IA.
 
 Atualmente estou construindo minhas bases em programação, eletrônica e fundamentos da inteligência artificial, pesquisando e documentando para evoluir. Meu objetivo é crescer como desenvolvedora autodidata, sendo capaz de compreender e criar soluções criativas nas três principais vertentes da tecnologia: Hardware, Software e Inteligência Artificial.
 

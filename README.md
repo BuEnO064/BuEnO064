@@ -26,8 +26,8 @@ Minhas áreas de estudo e interesse envolvem o desenvolvimento de software, elet
 ## 📊 Estatísticas de Aprendizado
 
 <div align="center">
-  <img height="180em" src="https://github.com/BuEnO064"/>
-  <img height="180em" src="https://github.com/BuEnO064"/>
+  <img height="180em" src="https:/BuEnO064/vercel.app"/>
+  <img height="180em" src="https:/BuEnO064/v.app"/>
 </div>
 
 ---
@@ -40,5 +40,5 @@ Minhas áreas de estudo e interesse envolvem o desenvolvimento de software, elet
 <br>
 
 <div align="right">
-  <img src="https://github.com/BuEnO064"/>
+  <img src="https:/BuEnO064/shields.io"/>
 </div>

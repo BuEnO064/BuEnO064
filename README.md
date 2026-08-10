@@ -1,48 +1,44 @@
+# Olá, eu sou a Gabriela Bueno 👋
 
-# ✨Seja bem vindo (a) ao meu perfil!✨
+Sou estudante do último ano do Ensino Médio, entusiasta de tecnologia e autodidata. Utilizo este espaço para documentar minha evolução prática e fundamentos teóricos antes de ingressar na faculdade de **Engenharia da Computação**.
+
+Minhas áreas de estudo e interesse envolvem o desenvolvimento de software, eletrônica (hardware) e sistemas inteligentes aplicados à Inteligência Artificial.
+
+---
+
+## 🛠️ Tecnologias e Estudos Atuais
+
+* **Software:** Logic de Programação, HTML5, CSS3, JavaScript, Python
+* **Hardware:** Fundamentos de Eletrônica e Elétrica, Projetos Digitais
+* **Inteligência Artificial:** Conceitos iniciais de Machine Learning e automação
+* **Ferramentas:** Git, GitHub
+
+---
+
+## 🎯 Objetivos de Curto Prazo
+
+* Conclusão do Ensino Médio e ingresso em Engenharia da Computação.
+* Desenvolvimento de projetos práticos que conectem código e hardware.
+* Criação de modelos experimentais de IA de forma autoral.
+
+---
+
+## 📊 Estatísticas de Aprendizado
 
 <div align="center">
-<img width="500" height="500" alt="raposa" src="https://github.com/user-attachments/assets/d948221c-0dac-4dfa-9eab-5571530233fd" />
+  <img height="180em" src="https://github.com/BuEnO064"/>
+  <img height="180em" src="https://github.com/BuEnO064"/>
 </div>
-Sou autodidata, curiosa por natureza e apaixonada por explorar e pesquisar — desde hardware até experimentos envolvendo software e IA.
-
-Atualmente estou construindo minhas bases em programação, eletrônica e fundamentos da inteligência artificial, pesquisando e documentando para evoluir. Meu objetivo é crescer como desenvolvedora autodidata, sendo capaz de compreender e criar soluções criativas nas três principais vertentes da tecnologia: Hardware, Software e Inteligência Artificial.
 
 ---
 
-## 🌱 Sobre mim
-- 👩‍🎓 3º ano do ensino médio  
-- 💻 Estudo programação e eletrônica por hobby e também como objetivo profissional  
-- 🤖 Interesse profundo em **Inteligência Artificial**, automação e sistemas  
-- 📚 Faço cursos curtos regularmente para ampliar minhas habilidades  
-- 🔍 Determinada, disciplinada e impulsionada por curiosidade real  
+## 🌐 Contato profissional
 
----
+* **LinkedIn:** [linkedin.com/in/gabriela-bueno-605691350](https://www.linkedin.com/in/gabriela-bueno-605691350)
+* **E-mail:** buenoraposa@gmail.com
 
-## 🎯 Objetivos
-- Montar um portfólio sólido com projetos práticos  
-- Me formar em Engenharia da Computação 
-- Me especializar no mundo do Hardware, Software e a Inteligência Artificial 
-- Criar uma **IA original** que una criatividade, técnica e visão pessoal  
+<br>
 
----
-## 🛠️ Tecnologias que estudo
-
-- HTML, CSS, JavaScript
-
-- Python
-
-- GitHub
-
-- Lógica de Programação
-
-- Fundamentos de IA e ML (estudos iniciais)
-
-- Fundamentos da Eletrônica e Elétrica 
----
-## _🌐como me encontrar_ 
-✨Vamos trocar ideias e crescer juntos✨
-
- - _✉️E-mail:buenoraposa@gmail.com_
-- _💼LinkedIn:https://www.linkedin.com/in/gabriela-bueno-605691350_
----
+<div align="right">
+  <img src="https://github.com/BuEnO064"/>
+</div>

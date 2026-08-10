@@ -23,22 +23,11 @@ Minhas áreas de estudo e interesse envolvem o desenvolvimento de software, elet
 
 ---
 
-## 📊 Estatísticas de Aprendizado
-
-<div align="center">
-  <img height="180em" src="https:/BuEnO064/vercel.app"/>
-  <img height="180em" src="https:/BuEnO064/v.app"/>
-</div>
-
----
-
 ## 🌐 Contato profissional
 
 * **LinkedIn:** [linkedin.com/in/gabriela-bueno-605691350](https://www.linkedin.com/in/gabriela-bueno-605691350)
 * **E-mail:** buenoraposa@gmail.com
 
-<br>
+---
 
-<div align="right">
-  <img src="https:/BuEnO064/shields.io"/>
-</div>
+<i>Status: _Focada no Vestibular_
